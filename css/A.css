@@ -30,16 +30,19 @@
 	  border-radius: 25px;
 	  padding: 10px;
 	  padding-top: 15px;
-	  margin: 25px;
 }
 @media only screen and (max-width: 2500px){ 
   .container {max-width: 1000px;}
+  .AAA	{margin: 25px;}
 }
 @media only screen and (max-width: 1050px){
   .container {max-width: 800px;}
+  .AAA	{margin: 25px;}
 }
 @media only screen and (max-width: 850px){
   .container {max-width: 700px;}
+  .AAA	{margin: 25px;}
+
 }
 @media only screen and (max-width: 710px){
   .container {max-width: 450px;}
