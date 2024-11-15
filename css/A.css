@@ -24,7 +24,14 @@
   margin-right: auto;
   padding: 15px;
 }
-
+.AAA {
+	  background-color:white;
+	  width: 120px;
+	  border-radius: 25px;
+	  padding: 10px;
+	  padding-top: 15px;
+	  margin: 25px;
+}
 @media only screen and (max-width: 2500px){ 
   .container {max-width: 1000px;}
 }
@@ -36,5 +43,5 @@
 }
 @media only screen and (max-width: 710px){
   .container {max-width: 450px;}
-  .link_container {max-width: 400px;}
+  .AAA {margin: 2px;}
 }
